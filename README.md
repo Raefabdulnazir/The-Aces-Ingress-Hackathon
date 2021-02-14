@@ -2,7 +2,7 @@
 
 This repo contains the presentation of our project for ingress hackathon
 
-~TEAM ACES~
+TEAM ACES
 
 GROUP MEMBERS
 1)Ashwin Abraham
